@@ -4,5 +4,6 @@
   tasks:
     - ansible.builtin.ping:
     - ansible.builtin.debug:
-        msg: "test"
+        msg: "anothet test"
+
 

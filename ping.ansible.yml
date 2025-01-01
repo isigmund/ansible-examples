@@ -3,3 +3,6 @@
 - hosts: all
   tasks:
     - ansible.builtin.ping:
+    - ansible.builtin.debug:
+        msg: "test"
+
